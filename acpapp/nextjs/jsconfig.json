@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["ES6"],  // Include ES6 or higher for modern JS features
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}
